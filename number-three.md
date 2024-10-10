@@ -18,7 +18,7 @@
 
     if ($stmt->execute()) {
         echo "<pre>";
-        print_r($stmt->fetch());
+        print_r($stmt->fetchAll());
         echo "<pre>";
     }
     ?>
