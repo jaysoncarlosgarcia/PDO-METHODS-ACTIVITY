@@ -1,4 +1,4 @@
-SHOW CODE DEMONSTRATING FETCH_ALL(). USE PRINT_R(). WITH "<pre>" TAG IN BETWEEN.
+/// SHOW CODE DEMONSTRATING FETCH_ALL(). USE PRINT_R(). WITH "<pre>" TAG IN BETWEEN.
 ### index.php
 ```php
 <?php require_once 'core/dbConfig.php'; ?>
